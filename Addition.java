@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class sumNum {
-    public static void main(String args[]) {
+public class Addition {
+    public static void main(String[] args) {
         int num, result = 0;
         System.out.print("Enter number :: ");
         Scanner ref = new Scanner(System.in);

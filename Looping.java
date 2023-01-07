@@ -1,5 +1,5 @@
-public class loops {
-    public static void main(String args[]) {
+class Looping {
+    public static void main(String[] args) {
         /* While loop */
         // int i = 1;
         // while (i <= 10) {

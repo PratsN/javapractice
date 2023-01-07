@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class switchcase {
-    public static void main(String args[]) {
+public class Switching {
+    public static void main(String[] args) {
         int a = 10, b = 20, choice;
         System.out.print("Enter your choice:: ");
 

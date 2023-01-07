@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-class input_output {
-    public static void main(String args[]) {
+class Input_output {
+    public static void main(String[] args) {
         int a;
         Scanner intObj = new Scanner(System.in);
         a = intObj.nextInt();

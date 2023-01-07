@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-class if_else {
-    public static void main(String args[]) {
+class If_else {
+    public static void main(String[] args) {
         int num;
         System.out.print("Enter number :: ");
         Scanner obj = new Scanner(System.in);

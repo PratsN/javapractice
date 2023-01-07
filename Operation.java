@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 class Operation {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         int a, b;
         System.out.print("Enter two numbers : ");
         Scanner obj = new Scanner(System.in);
@@ -12,11 +12,11 @@ class Operation {
         System.out.println("Multiplication: " + (a * b));
         System.out.println("Division : " + (a / b));
         System.out.println("Reminder : " + (a % b));
-        System.out.println("Relatinal : " + (a > b));
-        System.out.println("Relatinal : " + (a < b));
-        System.out.println("Relatinal : " + (a >= b));
-        System.out.println("Relatinal : " + (a <= b));
-        System.out.println("Relatinal : " + (a == b));
-        System.out.println("Relatinal : " + (a != b));
+        System.out.println("Relational : " + (a > b));
+        System.out.println("Relational : " + (a < b));
+        System.out.println("Relational : " + (a >= b));
+        System.out.println("Relational : " + (a <= b));
+        System.out.println("Relational : " + (a == b));
+        System.out.println("Relational : " + (a != b));
     }
 }
