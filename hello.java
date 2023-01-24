@@ -1,5 +1,5 @@
 class Hello {
-    static int b = 20; // declaration of static variable
+    static int b = 20; // declaration and initialization of static variable
     int c = 30; // declaration of instance variable
 
     void variable() {
